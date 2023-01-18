@@ -1,4 +1,4 @@
-# Brew install
+# Brew Installation
 ##  1. Access to https://brew.sh/
 ## 2. Copy (Ctrl + C) script code to install here:
 
