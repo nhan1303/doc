@@ -16,7 +16,8 @@
 
 <img width="1440" alt="Screen Shot 2023-01-18 at 11.19.11.png (1.7 MB)" src="https://img.esa.io/uploads/production/attachments/20322/2023/01/18/143635/fd5af0ef-b3d5-439d-b274-5c2e86a77cda.png">
 
-## 6. After downloading and install successful, you might need to add Homebrew app to global path (for global using purpose). To do that, let's copy the content inside green rectangle, then paste it into your terminal and press Enter.
+## 6. Add global path
+After downloading and install successful, you might need to add Homebrew app to global path (for global using purpose). To do that, let's select and copy the **content inside green rectangle**, then paste it into your terminal and press Enter.
 
 
 <img width="563" alt="147083452-98913402-dd6f-4b89-acd9-00f52b245d11.png (428.1 kB)" src="https://img.esa.io/uploads/production/attachments/20322/2023/01/18/143635/5d85d5d5-ba50-450c-96e6-4dba9c1d209c.png">
