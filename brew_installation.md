@@ -22,7 +22,8 @@ After downloading and install successful, you might need to add Homebrew app to 
 
 <img width="563" alt="147083452-98913402-dd6f-4b89-acd9-00f52b245d11.png (428.1 kB)" src="https://img.esa.io/uploads/production/attachments/20322/2023/01/18/143635/5d85d5d5-ba50-450c-96e6-4dba9c1d209c.png">
 
-## 7. After all, type the following command to test your installation is done successfully.
+## 7. Check your installation is success or not
+After all, type the following command to test your installation is done successfully.
 
 ```
 brew -v
