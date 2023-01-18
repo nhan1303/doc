@@ -1,4 +1,8 @@
 # SequelAce Installation
+## Why SequelAce ?
+
+When it comes to DBMS GUI tools on MacOs, we often adopt SequelPro to our needs because it is fast and easy-to-use. But it might not working well for M1 chip, then **Sequel Ace** is a good candidate because of similar appearance.
+
 ##  1. Access to https://sequel-ace.com/
 ## 2. Copy (Ctrl + C) script code to install here:
 
